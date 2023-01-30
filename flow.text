@@ -1,0 +1,4 @@
+first   create order 
+second  pass the order id from frontend and make payment using razorpay object
+third   verifiy order using  x-razorpay-signature 
+forth   send response to user
